@@ -20,9 +20,9 @@ me.greet()
 
 <div align="center">
   <a href="https://github.com/imfeelingitchy">
-    <img src="https://raw.githubusercontent.com/imfeelingitchy/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+    <img src="https://github.com/imfeelingitchy/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
   </a>
   <a href="https://github.com/prayujt">
-    <img src="https://raw.githubusercontent.com/imfeelingitchy/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://github.com/imfeelingitchy/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
   </a>
 </div>
