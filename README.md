@@ -18,11 +18,6 @@ me = Programmer(
 me.greet()
 ```
 
-<div align="center">
-    <a href="#">
-        <img src="https://github.com/imfeelingitchy/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-    </a>
-    <a href="#">
-        <img src="https://github.com/imfeelingitchy/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-    </a>
-</div>
+![](https://github.com/imfeelingitchy/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://github.com/imfeelingitchy/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
