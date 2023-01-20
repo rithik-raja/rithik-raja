@@ -17,7 +17,11 @@ me = Programmer(
 
 me.greet()
 ```
-
-![](https://github.com/imfeelingitchy/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://github.com/imfeelingitchy/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+<div align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/imfeelingitchy/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/imfeelingitchy/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  </a>
+</div>
