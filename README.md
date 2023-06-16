@@ -19,9 +19,9 @@ me.greet()
 ```
 <div align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/imfeelingitchy/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://raw.githubusercontent.com/rithik-raja/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   </a>
   <a href="#">
-    <img src="https://raw.githubusercontent.com/imfeelingitchy/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+    <img src="https://raw.githubusercontent.com/rithik-raja/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
   </a>
 </div>
