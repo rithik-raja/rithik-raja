@@ -1,3 +1,3 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rithik-raja&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rithik-raja&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rithik-raja&theme=default)
+[![](https://raw.githubusercontent.com/rithik-raja/rithik-raja/main/profile-summary-card-output/city_lights/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rithik-raja/rithik-raja/main/profile-summary-card-output/city_lights/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rithik-raja/rithik-raja/main/profile-summary-card-output/city_lights/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rithik-raja/rithik-raja/main/profile-summary-card-output/city_lights/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rithik-raja/rithik-raja/main/profile-summary-card-output/city_lights/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
